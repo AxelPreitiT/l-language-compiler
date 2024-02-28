@@ -1,8 +1,6 @@
-# TPE_TLA
-## The L programming language
+# The L programming language
 
 #### Una extensión del proyecto [Flex-Bison-Compiler](https://github.com/agustin-golmar/Flex-Bison-Compiler) 
-<hr>
 
 ## Compilación
 Para construir el compilador, ejecutar en la raíz del proyecto los siguientes comandos
@@ -65,16 +63,8 @@ Si se quiere activar los logs, se debe descomentar la siguiente línea en `src/b
 ```c
 #define DEBUG true
 ```
-<hr>
 
 ## Soporte
-
-En caso de necesitar información adicional o querer conocer detalles de la implementación, se sugiere acceder al repositorio de GitHub público del proyecto. Alternativamente, puede contactarse con cualquiera de los desarrolladores.
-
-### Link al repositorio público
-https://github.com/JoseMenta/TPE_TLA
-
-### Contacto de desarrolladores:
 
 * Axel Facundo Preiti Tasat: https://github.com/AxelPreitiT
 * Gastón Ariel Francois: https://github.com/francoisgaston
